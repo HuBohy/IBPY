@@ -2,7 +2,6 @@ import os
 import pympi
 import numpy
 
-
 def get_all_filepaths(root, ext, to_fill=None):
     """Return list of eaf files.
     
